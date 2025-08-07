@@ -1,4 +1,4 @@
-@charset"utf-8";
+
 /*ブラウザ既定スタイルの解除始まり*/
 body{
   margin: 0;
@@ -175,7 +175,7 @@ footer #footer_nav li{
 
 #index footer #footer_nav{
   background-color: transparent;
-}ckground-color: transparent;
+  
 }
 
 #index{
@@ -290,7 +290,7 @@ a img:hover{
 .sidebar{
   width: 200px;
   margin: 0 30px 0 30px;
-  float: right
+  float: right;
   font-family:  "Bitter", serif;  
 }
 
@@ -517,7 +517,7 @@ a img:hover{
     width: auto;
     float: none;
     margin: 0;
-    padding: 30px 10% 10px;/上30px左右10%下10px*/
+     padding: 30px 10% 10px;/*上30px左右10%下10px*/ 
     background-color: #f7f6f4;
   }
   
