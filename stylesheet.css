@@ -101,12 +101,14 @@ header{
 }
 /*footerの設定*/
 footer{
-  text-align: center;
+  width: 1200px;
+  margin: 100px auto 0 auto;
   color: #ffffff;
   background-color: #767671;
 }
 footer small{
   font-size: 12px;
+  
 }
 
 footer #footer_nav{
@@ -510,7 +512,10 @@ a img:hover{
     width: auto;
     font-size: 2.5vw
   }
-  
+  #index footer{
+    width: auto;
+    text-align: center; 
+  }
  
   
   .sidebar{
